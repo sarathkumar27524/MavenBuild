@@ -14,3 +14,4 @@ Use below command to run the container
 
 docker run -d -p 8080:8080 --name mavenbuild mavenbuild
 checking github hook after mapping this project in jenkins & updating webhook url properly
+Modifying to see the pipleine gets triggered or not
