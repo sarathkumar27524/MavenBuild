@@ -13,4 +13,4 @@ Once this is done u will be see image using docker images
 Use below command to run the container
 
 docker run -d -p 8080:8080 --name mavenbuild mavenbuild
-checking github hook after mapping this project in jenkins
+checking github hook after mapping this project in jenkins & updating webhook url properly
